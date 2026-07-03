@@ -12,14 +12,6 @@ All Small Generating Facilities connecting to lines greater than 69 kilovolt (kV
 
 For interconnection of a proposed Small Generating Facility to a radial distribution circuit, the aggregated generation, including the proposed Small Generating Facility, on the circuit shall not exceed 15 % of the line section annual peak load as most recently measured at the substation.
 
-## [FERC-2.2.1.5-SC] SGIP 2.2.1.5 (short circuit interrupting capability)
-
-The proposed Small Generating Facility, in aggregate with other generation, shall not cause any distribution protective devices and equipment to exceed 87.5 % of the short circuit interrupting capability; nor shall the interconnection be proposed for a circuit that already exceeds 87.5 % of the short circuit interrupting capability.
-
-## [FERC-2.2.1.7-SEC] SGIP 2.2.1.7 (shared secondary 20 kW)
-
-If the proposed Small Generating Facility is to be interconnected on single-phase shared secondary, the aggregate generation capacity on the shared secondary, including the proposed Small Generating Facility, shall not exceed 20 kW.
-
 ## [FERC-2.2.2-PASS] SGIP 2.2.2 (approval when screens pass)
 
 If the proposed interconnection passes the screens, the Interconnection Request shall be approved and the Transmission Provider will provide the Interconnection Customer an executable interconnection agreement within five Business Days after the determination.
