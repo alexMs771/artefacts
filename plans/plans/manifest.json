@@ -1,0 +1,324 @@
+[
+  {
+    "code": "AEU",
+    "name": "Amador-El Dorado Unit",
+    "counties": [
+      "Amador",
+      "El Dorado",
+      "Sacramento",
+      "Alpine"
+    ],
+    "year": "2024",
+    "status": "FAILED",
+    "tried": [
+      "https://www.eldoradocounty.ca.gov/files/assets/county/v/1/documents/public-safety-amp-justice/wildfire-amp-disaster/wildfire-preparedness/2024-amador-el-dorado-alpine-sacramento-unit-fire-plan-final-and-published.pdf"
+    ],
+    "official_page": "https://www.eldoradocounty.ca.gov/"
+  },
+  {
+    "code": "BTU",
+    "name": "Butte Unit",
+    "counties": [
+      "Butte"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 86401909,
+    "sha256": "0e875101296c8f806edcb76d2133daf089e39e028de1f2434b4b52b0ec05ce3d",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-butte-unit-fire-plan-and-cwpp.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "BTU.pdf"
+  },
+  {
+    "code": "HUU",
+    "name": "Humboldt-Del Norte Unit",
+    "counties": [
+      "Humboldt",
+      "Del Norte"
+    ],
+    "year": "2025",
+    "status": "FAILED",
+    "tried": [
+      "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/huu_2025_fireplan.pdf",
+      "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-humboldt-del-norte-unit-fire-plan.pdf"
+    ],
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning"
+  },
+  {
+    "code": "LMU",
+    "name": "Lassen-Modoc Unit",
+    "counties": [
+      "Lassen",
+      "Modoc",
+      "Plumas"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 5222154,
+    "sha256": "5d7fac17d72bf651ddc99da5435d5a80f90b9c5432124c742584a458ec708597",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-lmu-strategic-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "LMU.pdf"
+  },
+  {
+    "code": "MEU",
+    "name": "Mendocino Unit",
+    "counties": [
+      "Mendocino"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 15021572,
+    "sha256": "b813b33ed52576ca80a4348a5c0479a03d7d4e6f1fbb51ed73f31bb859ccb59b",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-mendocino-unit-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "MEU.pdf"
+  },
+  {
+    "code": "NEU",
+    "name": "Nevada-Yuba-Placer Unit",
+    "counties": [
+      "Nevada",
+      "Yuba",
+      "Placer",
+      "Sutter",
+      "Sierra"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 8354360,
+    "sha256": "af3d5986bd93c6529e4efe63ae16d32d98d36180dca7f1ab1bc155e321e0fdea",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning/2025-neu-strategic-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "NEU.pdf"
+  },
+  {
+    "code": "CZU",
+    "name": "San Mateo-Santa Cruz Unit",
+    "counties": [
+      "San Mateo",
+      "Santa Cruz"
+    ],
+    "year": "2021",
+    "status": "FAILED",
+    "tried": [
+      "https://osfm.fire.ca.gov/media/ye0hefak/2021_czu_fireplan.pdf"
+    ],
+    "official_page": "https://osfm.fire.ca.gov/"
+  },
+  {
+    "code": "SCU",
+    "name": "Santa Clara Unit",
+    "counties": [
+      "Santa Clara",
+      "Contra Costa",
+      "Alameda",
+      "San Joaquin",
+      "Stanislaus"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 8434642,
+    "sha256": "d6d235a114d1a22068b2c541eba5f48a402c2a31cace29d2ee5331eab429ca02",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-santa-clara-contra-costa-alameda-west-stanislaus-west-san-joaquin-unit-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "SCU.pdf"
+  },
+  {
+    "code": "SHU",
+    "name": "Shasta-Trinity Unit",
+    "counties": [
+      "Shasta",
+      "Trinity"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 5846884,
+    "sha256": "faff8aa873a0697cbb9f17a700029d866d908d283d83c8fdb63cf900f65db2c9",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-shasta-trinity-unit-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "SHU.pdf"
+  },
+  {
+    "code": "SKU",
+    "name": "Siskiyou Unit",
+    "counties": [
+      "Siskiyou"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 20510972,
+    "sha256": "b646077f0b0f4af52989739c38c3c5aa9388a77acd2f4a3384354e61a0af738b",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-siskiyou-unit-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "SKU.pdf"
+  },
+  {
+    "code": "LNU",
+    "name": "Sonoma-Lake-Napa Unit",
+    "counties": [
+      "Sonoma",
+      "Lake",
+      "Napa",
+      "Solano",
+      "Yolo",
+      "Colusa"
+    ],
+    "year": "2021",
+    "status": "FAILED",
+    "tried": [
+      "https://osfm.fire.ca.gov/media/lpafffiu/2021_lnu_fireplan.pdf"
+    ],
+    "official_page": "https://osfm.fire.ca.gov/"
+  },
+  {
+    "code": "TGU",
+    "name": "Tehama-Glenn Unit",
+    "counties": [
+      "Tehama",
+      "Glenn"
+    ],
+    "year": "2024",
+    "status": "FAILED",
+    "tried": [
+      "https://bof.fire.ca.gov/media/5bobq0yn/rpc-2-b-i-_-do-not-print__4-tehama-glenn-unit-fire-plan-2024_re_adamfk.pdf"
+    ],
+    "official_page": "https://bof.fire.ca.gov/"
+  },
+  {
+    "code": "FKU",
+    "name": "Fresno-Kings Unit",
+    "counties": [
+      "Fresno",
+      "Kings"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 8148103,
+    "sha256": "591aab2c963e95a3deea19526b9b3cc29f7c1e5408d159680baf66cc42db5b00",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/fku_2025_fireplan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "FKU.pdf"
+  },
+  {
+    "code": "MMU",
+    "name": "Madera-Mariposa-Merced Unit",
+    "counties": [
+      "Madera",
+      "Mariposa",
+      "Merced"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 5457711,
+    "sha256": "fc80510041759c255ead378ab2f65eebc0786b755ffd36f4bade48a61c1b4835",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/mmu_2025_fireplan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "MMU.pdf"
+  },
+  {
+    "code": "RRU",
+    "name": "Riverside Unit",
+    "counties": [
+      "Riverside"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 4312621,
+    "sha256": "2a16f0d0272d1de575d71fb89edf4ae58489f0e4c31f33c61629d4e123ca5933",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning/riverside_unit_fire_plan_2025_1.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "RRU.pdf"
+  },
+  {
+    "code": "BEU",
+    "name": "San Benito-Monterey Unit",
+    "counties": [
+      "San Benito",
+      "Monterey"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 13227087,
+    "sha256": "49afc9897a9a8d422dc094d85cb7d436a7c25a67730ae368ddcf3d5df19b814f",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/beu_2025_fire_plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "BEU.pdf"
+  },
+  {
+    "code": "BDU",
+    "name": "San Bernardino Unit",
+    "counties": [
+      "San Bernardino",
+      "Inyo",
+      "Mono"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 3784470,
+    "sha256": "37bc8ce2a6c75536701e444fc7b463d551fb13abf6ab34a3841451b75dc368e6",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning/bdu_fireplan_final_052025_1502.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "BDU.pdf"
+  },
+  {
+    "code": "SDU",
+    "name": "San Diego Unit",
+    "counties": [
+      "San Diego",
+      "Imperial"
+    ],
+    "year": "2022",
+    "status": "FAILED",
+    "tried": [
+      "https://osfm.fire.ca.gov/media/nvmduq3i/2022-san-diego-imperial-unit-fire-plan.pdf"
+    ],
+    "official_page": "https://osfm.fire.ca.gov/"
+  },
+  {
+    "code": "SLU",
+    "name": "San Luis Obispo Unit",
+    "counties": [
+      "San Luis Obispo"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 7972695,
+    "sha256": "023b365e07a43c2ae5a377e9e6a96aedef738ac09d7b868314503817045343cc",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025-slu-fire-plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "SLU.pdf"
+  },
+  {
+    "code": "TUU",
+    "name": "Tulare Unit",
+    "counties": [
+      "Tulare"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 6363005,
+    "sha256": "3a737dfaa6dd99388171c30760fcae2b638ee95c55b7d895af84f74a39a8bba7",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/2025_tulare_unit_fire_plan.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "TUU.pdf"
+  },
+  {
+    "code": "TCU",
+    "name": "Tuolumne-Calaveras Unit",
+    "counties": [
+      "Tuolumne",
+      "Calaveras",
+      "San Joaquin",
+      "Stanislaus",
+      "Alpine"
+    ],
+    "year": "2025",
+    "status": "OK",
+    "bytes": 1770044,
+    "sha256": "51cd9b6c8687ca14d5af6d4436a08f446dd5df161135b5c752ff7c68f75232c4",
+    "fetch_origin": "https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/osfm-website/what-we-do/community-wildfire-preparedness-and-mitigation/tcu-unit-fire-plan-2025.pdf",
+    "official_page": "https://www.fire.ca.gov/osfm/what-we-do/community-wildfire-preparedness-and-mitigation/pre-fire-planning",
+    "mirror_file": "TCU.pdf"
+  }
+]
